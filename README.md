@@ -6,9 +6,9 @@ This class built by python3 for sort data which resulted from searching.
     Sortation( data , fulcrum, selection , priority)
 
 ### CONSTRAINTS
-  - Data shall be a list of uniform sublists, all sublists shall compatible with each other in the list-length and data types of each element.
-  - Dulcrum shall be a string or int data type.
-  - Selection shall be a list of numbers, the length of the list shall be less than or equal to the list-length of the data lists, and every number is less than the list-length of data lists.
+  - *Data* shall be a list of uniform sublists, all sublists shall compatible with each other in the list-length and data types of each element.
+  - *Dulcrum* shall be a string or int data type.
+  - *Selection* shall be a list of numbers, the length of the list shall be less than or equal to the list-length of the *data* lists, and every number is less than the list-length of data lists.
   - Priority shall be a boolean data type.
 ### FUNCTIONS
  #### sort()
