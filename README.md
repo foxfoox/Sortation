@@ -1,5 +1,5 @@
 # Sortation
-This class built by python3 for sort data which resulted from searching.
+ This class built by python3 for sort data which resulted from searching.
 
 ### SYNOPSIS
 
